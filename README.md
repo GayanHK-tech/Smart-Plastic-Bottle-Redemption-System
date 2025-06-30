@@ -61,6 +61,25 @@ Install all dependencies using:
 ```bash
 pip install -r requirements.txt
 
+```
+## 🔍 How It Works
+
+1. The webcam captures a live video stream.
+2. A Python script runs a trained MobileNetV2 AI model to detect plastic bottles in real time.
+3. When a plastic bottle is detected, Python sends a signal to the Arduino through the serial port.
+4. The Arduino activates a servo or motor to collect the bottle.
+5. The system loops continuously to process each new detection.
+
+---
+
+## 🧪 How to Run the Project
+
+### 1️⃣ Clone the Repository
+
+```bash
+git clone https://github.com/yourusername/Smart-Plastic-Bottle-Redemption-System-main.git
+cd Smart-Plastic-Bottle-Redemption-System-main
+
 
 
 
