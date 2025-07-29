@@ -6,7 +6,7 @@ A Smart AI-based system that detects and collects plastic bottles using **Python
 
 ## 📌 Project Summary
 
-This system uses a **Python-based AI model** and **Arduino microcontroller** to automate the process of detecting and collecting plastic bottles. The project is ideal for smart waste management and eco-friendly recycling initiatives.
+This system uses a **Python-based AI model** and **Arduino microcontroller** to automate the process of detecting and collecting plastic bottles. The project is ideal for smart waste management and eco-friendly recycling initiatives
 
 ---
 
