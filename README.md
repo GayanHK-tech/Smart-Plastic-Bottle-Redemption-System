@@ -83,9 +83,5 @@ cd Smart-Plastic-Bottle-Redemption-System-main
 ```
 ## 📸 Project Screenshots
 
-![Screenshot](img/img1.jpeg)
-![Screenshot](img/img2.jpeg)
-![Screenshot](img/img3.jpeg)
-![Screenshot](img/img4.jpeg)
 
 
